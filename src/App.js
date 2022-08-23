@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import { Home } from '../pages/Home'
-import { GlobalStyles } from '../styles/GlobalStyles'
+import { Home } from '@pages/Home'
+import { GlobalStyles } from '@styles/GlobalStyles'
 
 const App = () => {
   return (

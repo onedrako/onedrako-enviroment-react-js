@@ -1,7 +1,7 @@
 import React from 'react'
-import config from '../config'
+import config from '../../config'
 
-const Home = () => {
+const HelloWorld = () => {
   return (
     <>
       <h1>Hello World</h1>
@@ -10,4 +10,4 @@ const Home = () => {
   )
 }
 
-export { Home }
+export { HelloWorld }
